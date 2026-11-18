@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PaperScan</string>
+
+    <!-- App Branding & Offline Badges (Sinhala + English) -->
+    <string name="home_subtitle_si">මුද්‍රිත කඩදාසි ඕෆ්ලයින් ස්කෑනරය</string>
+    <string name="home_subtitle_en">Offline Printed Paper Scanner</string>
+    <string name="badge_offline_si">100% ඕෆ්ලයින් • ඩේටාබේස් නොමැත</string>
+    <string name="badge_offline_en">100% Offline • Saved on Phone</string>
+    <string name="toggle_lang_si">EN</string>
+    <string name="toggle_lang_en">සිං</string>
+
+    <!-- Home Screen -->
+    <string name="search_hint_si">ලේඛන සොයන්න…</string>
+    <string name="search_hint_en">Search documents…</string>
+    <string name="stats_summary_si">ලේඛන %1$d • %2$s දුරකථනයේ</string>
+    <string name="stats_summary_en">%1$d documents • %2$s on phone</string>
+    <string name="empty_title_si">මුද්‍රිත කඩදාසි ස්කෑන් කරන්න</string>
+    <string name="empty_title_en">Scan Printed Papers</string>
+    <string name="empty_desc_si">අන්තර්ජාලය හෝ ඩේටාබේස් නොමැතිව කඩදාසි ඡායාරූප ගෙන පැහැදිලි PDF හෝ රූප ලෙස දුරකථනයටම සුරකින්න සහ වෙනත් ඇප් වලට share කරන්න.</string>
+    <string name="empty_desc_en">Capture printed pages completely offline, crop &amp; sharpen text, save directly to your phone without any database, and share to any app.</string>
+    <string name="action_scan_paper_si">කඩදාසි ස්කෑන් කරන්න</string>
+    <string name="action_scan_paper_en">Scan Paper</string>
+    <string name="action_import_gallery_si">ගැලරියෙන් තෝරන්න</string>
+    <string name="action_import_gallery_en">Import Photo</string>
+    <string name="pages_count_si">පිටු %1$d</string>
+    <string name="pages_count_en">%1$d pages</string>
+    <string name="page_singular_si">පිටු 1</string>
+    <string name="page_singular_en">1 page</string>
+    <string name="auto_save_downloads_si">Downloads වෙත ස්වයංක්‍රීයව සුරකින්න</string>
+    <string name="auto_save_downloads_en">Auto-save PDF to Downloads</string>
+
+    <!-- Camera Screen -->
+    <string name="camera_title_si">කඩදාසි ස්කෑනරය</string>
+    <string name="camera_title_en">Paper Camera</string>
+    <string name="camera_guide_si">මුද්‍රිත කඩදාසිය රාමුව තුළ තබන්න</string>
+    <string name="camera_guide_en">Align printed paper inside frame</string>
+    <string name="camera_permission_title_si">කැමරා අවසරය අවශ්‍යයි</string>
+    <string name="camera_permission_title_en">Camera Permission Needed</string>
+    <string name="camera_permission_desc_si">මුද්‍රිත කඩදාසි ස්කෑන් කිරීමට කැමරා අවසරය ලබා දෙන්න. නැතහොත් ගැලරියෙන් ඡායාරූපයක් තෝරා ස්කෑන් කළ හැක.</string>
+    <string name="camera_permission_desc_en">Allow camera access to scan printed papers offline, or import an existing paper photo from your gallery.</string>
+    <string name="grant_permission_si">අවසරය දෙන්න</string>
+    <string name="grant_permission_en">Allow Camera</string>
+    <string name="session_pages_si">පිටු %1$d ක් ගෙන ඇත</string>
+    <string name="session_pages_en">%1$d page(s) captured</string>
+    <string name="finish_scan_si">සංස්කරණය කරන්න (%1$d)</string>
+    <string name="finish_scan_en">Review &amp; Save (%1$d)</string>
+    <string name="capture_cd_si">ඡායාරූපය ගන්න</string>
+    <string name="capture_cd_en">Capture paper</string>
+    <string name="flash_cd_si">ෆ්ලෑෂ් ලයිට්</string>
+    <string name="flash_cd_en">Toggle torch</string>
+
+    <!-- Crop & Filter Editor -->
+    <string name="editor_title_si">කඩදාසිය සකසන්න</string>
+    <string name="editor_title_en">Crop &amp; Enhance</string>
+    <string name="editor_hint_si">කඩදාසියේ කොන් 4 ඇද සකසන්න</string>
+    <string name="editor_hint_en">Drag the 4 corners to fit paper edges</string>
+    <string name="filter_magic_si">පැහැදිලි</string>
+    <string name="filter_magic_en">Crisp Color</string>
+    <string name="filter_bw_si">කළු-සුදු</string>
+    <string name="filter_bw_en">B&amp;W Print</string>
+    <string name="filter_gray_si">අළු පැහැ</string>
+    <string name="filter_gray_en">Grayscale</string>
+    <string name="filter_original_si">මුල් පිටපත</string>
+    <string name="filter_original_en">Original</string>
+    <string name="rotate_si">හරවන්න</string>
+    <string name="rotate_en">Rotate</string>
+    <string name="reset_corners_si">සම්පූර්ණ</string>
+    <string name="reset_corners_en">Full Page</string>
+    <string name="apply_crop_si">රූපය සකසන්න</string>
+    <string name="apply_crop_en">Apply Crop</string>
+    <string name="edit_corners_si">කොන් සකසන්න</string>
+    <string name="edit_corners_en">Adjust Crop</string>
+    <string name="add_another_page_si">+ තව පිටුවක්</string>
+    <string name="add_another_page_en">+ Add Page</string>
+    <string name="save_doc_si">දුරකථනයට සුරකින්න</string>
+    <string name="save_doc_en">Save to Phone</string>
+    <string name="doc_name_label_si">ලේඛනයේ නම</string>
+    <string name="doc_name_label_en">Document Name</string>
+    <string name="default_doc_prefix_si">ස්කෑන් ලේඛනය</string>
+    <string name="default_doc_prefix_en">Scanned Doc</string>
+
+    <!-- Document Detail & Sharing -->
+    <string name="detail_share_si">වෙනත් ඇප් වෙත Share</string>
+    <string name="detail_share_en">Share to Apps</string>
+    <string name="share_pdf_si">PDF ලෙස Share කරන්න</string>
+    <string name="share_pdf_en">Share as PDF</string>
+    <string name="share_images_si">රූප (JPG) ලෙස Share කරන්න</string>
+    <string name="share_images_en">Share as Images (JPG)</string>
+    <string name="save_downloads_si">Downloads වෙත PDF සුරකින්න</string>
+    <string name="save_downloads_en">Save PDF to Downloads</string>
+    <string name="save_gallery_si">ගැලරියට රූප සුරකින්න</string>
+    <string name="save_gallery_en">Save Pages to Gallery</string>
+    <string name="save_as_si">වෙනත් තැනක සුරකින්න…</string>
+    <string name="save_as_en">Save PDF As…</string>
+    <string name="rename_si">නම වෙනස් කරන්න</string>
+    <string name="rename_en">Rename</string>
+    <string name="delete_si">මකන්න</string>
+    <string name="delete_en">Delete</string>
+    <string name="delete_confirm_si">මෙම ස්කෑන් කළ ලේඛනය දුරකථනයෙන් සම්පූර්ණයෙන්ම මකන්නද?</string>
+    <string name="delete_confirm_en">Delete this scanned document from your phone?</string>
+    <string name="cancel_si">අවලංගු</string>
+    <string name="cancel_en">Cancel</string>
+    <string name="confirm_si">තහවුරු</string>
+    <string name="confirm_en">Confirm</string>
+    <string name="saved_success_si">දුරකථනයේ සුරකින ලදී</string>
+    <string name="saved_success_en">Saved directly to phone</string>
+    <string name="saved_downloads_toast_si">Downloads/PaperScan තුළ PDF සුරකින ලදී</string>
+    <string name="saved_downloads_toast_en">PDF saved in Downloads/PaperScan</string>
+    <string name="saved_gallery_toast_si">පිටු ගැලරියේ Pictures/PaperScan වෙත සුරකින ලදී</string>
+    <string name="saved_gallery_toast_en">Pages saved to Pictures/PaperScan</string>
+    <string name="share_chooser_si">ලේඛනය Share කරන්න</string>
+    <string name="share_chooser_en">Share Scanned Document</string>
+    <string name="back_cd_si">ආපසු</string>
+    <string name="back_cd_en">Back</string>
+</resources>

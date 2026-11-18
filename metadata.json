@@ -1,0 +1,6 @@
+{
+  "name": "PaperScan",
+  "description": "Offline printed paper scanner that crops, enhances, saves multi-page PDF and image documents directly to phone storage with zero database, and shares to any app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
